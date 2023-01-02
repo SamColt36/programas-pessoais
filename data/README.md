@@ -10,12 +10,12 @@ A saída irá conter o texto "Today is " logo seguido da data atual. Depois, "FO
 
 **Exemplo 1**:  
 Today is 02/01/2023  
-Enter with the date (DD MM YYYY):: **15/01/2023**  
+Enter with the date (DD MM YYYY):: **15 01 2023**  
 TRABALHO
 
 **Exemplo 2**:  
 Today is 02/01/2023  
-Enter with the date (DD MM YYYY):: **16/01/2023**  
+Enter with the date (DD MM YYYY):: **16 01 2023**  
 FOLGO
 
 
