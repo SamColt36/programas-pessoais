@@ -18,10 +18,12 @@ public class Program {
 		System.out.println();
 
 		Scanner sc = new Scanner(System.in);
-		System.out.print("Enter with the date (DD MM YYYY): ");
-		int dia = sc.nextInt();
-		int mes = sc.nextInt();
-		int ano = sc.nextInt();
+		System.out.print("Enter with the date (DD/MM/YYYY): ");
+		String diaCompleto = sc.next();
+
+		int dia = Integer.parseInt(diaCompleto.substring(0, 2));
+		int mes = Integer.parseInt(diaCompleto.substring(3, 5));
+		int ano = Integer.parseInt(diaCompleto.substring(6));
 
 		LocalDate dataParaBuscar = LocalDate.of(ano, mes, dia);
 		LocalDateTime dataParaBuscarComHora = LocalDateTime.of(ano, mes, dia, 9, 0);
