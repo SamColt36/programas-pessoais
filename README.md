@@ -4,7 +4,7 @@ Este repositório é dedicado a armazenar programas em Java que foram desenvolvi
 
 ## Conteúdo 📚
 
--   [Calculadora de Folgas](https://chat.openai.com/chat#calculadora-de-folgas)
+-  Calculadora de Folgas
 
 ## Calculadora de Folgas 🔢
 
