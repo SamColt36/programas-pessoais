@@ -1,5 +1,30 @@
-![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2F5lLcKZgmIhgAAAAC%2Famerican-psycho-patrick-bateman.gif&f=1&nofb=1&ipt=a19a7da9d0d091c57b3d5890f498667ee9b33199dc2c03f202303b9af60aa60e&ipo=images) 
 
-## 🍷🗿 Olá **senhores**,
-venho cordialmente dizer que esse é um 📂 repositório dedicado ao desenvolvimento de projetos pessoais para me auxiliarem com questões diárias. No mais, peço aos finíssimos senhores que utilizem  o conteúdo aqui anexado com **sabedoria**.   
+# Programações para a Vida Real 🚀 
+Este repositório é dedicado a armazenar programas em Java que foram desenvolvidos para atender às minhas necessidades diárias. Aqui você encontrará ferramentas úteis que o ajudarão em sua rotina.
 
+## Conteúdo 📚
+
+-   [Calculadora de Folgas](https://chat.openai.com/chat#calculadora-de-folgas)
+
+## Calculadora de Folgas 🔢
+
+Este programa é responsável por calcular quando você estará de folga do trabalho e quando trabalhará, bem como quanto tempo falta. É uma ferramenta muito útil para ajudá-lo a planejar seus dias!
+
+📊 Dados de entrada:
+
+-   Data que está na dúvida se trabalha ou não
+
+📈 Saída:
+
+-   Dia e horário atual
+-   Se esta de folga ou não. Se for um dia de trabalho, a "calculadora "irá retornar a quantidade de dia(s), hora(s), minutos(s) e segundo(s) restantes (considerando o horário que começo a trabalhar).
+
+⚙️ Como usar: Execute o arquivo `datHora.java` e siga as instruções na tela.
+
+💡 Dica: Você também pode personalizar este programa de acordo com suas necessidades específicas!
+
+🎉 Espero que você aproveite este programa tanto quanto eu!
+
+
+
+![](https://media3.giphy.com/media/3o6MbseSY3SjTcjIyc/giphy.gif?cid=ecf05e47don8egtqx7adwh08s5r1xculujydq2lb23de3zh9&rid=giphy.gif&ct=g)
